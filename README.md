@@ -8,5 +8,5 @@ Key Features:
 4) User registration: New users can easily create an account by signing up, providing their necessary details and credentials to join the Messenger community.
 5) Forgot password functionality: In case users forget their password, Messenger includes a password recovery feature that allows them to regain access to their account through a secure verification process.
 6) User profile viewing: Messenger enables users to view and manage their profiles, providing options to update personal information and customize their messaging experience.
-7) 
+    
 Messenger aims to deliver a seamless and secure chatting experience, prioritizing user privacy through end-to-end AES encryption. With its intuitive interface and comprehensive feature set, Messenger ensures that users can connect, communicate, and maintain their privacy with confidence.
