@@ -1,3 +1,5 @@
+# Messenger
+
 Messenger is a secure and feature-rich chatting application designed to prioritize user privacy through end-to-end AES encryption. With a wide array of functionalities such as user contact lists, secure sign-in and authentication, user profile viewing, and password recovery options, Messenger provides a comprehensive and secure messaging experience.
 
 Key Features:
